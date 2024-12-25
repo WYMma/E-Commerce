@@ -288,3 +288,4 @@ C:\Yassin\Coding\ElectronyatShop\ElectronyatShop\obj\Debug\net8.0\refint\Electro
 C:\Yassin\Coding\ElectronyatShop\ElectronyatShop\obj\Debug\net8.0\ElectronyatShop.pdb
 C:\Yassin\Coding\ElectronyatShop\ElectronyatShop\obj\Debug\net8.0\ElectronyatShop.genruntimeconfig.cache
 C:\Yassin\Coding\ElectronyatShop\ElectronyatShop\obj\Debug\net8.0\ref\ElectronyatShop.dll
+C:\Yassin\Coding\ElectronyatShop\ElectronyatShop\obj\Debug\net8.0\ElectronyatShop.sourcelink.json
